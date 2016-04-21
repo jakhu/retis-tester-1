@@ -2,7 +2,7 @@
 # Will save as ~/.retis/plugins/<name>
 name: "retis-example"
 # url
-#url: "https://github.com/jakhu/retis-tester-1/archive/master.zip"
+url: "https://github.com/jakhu/retis-tester-1/archive/master.zip"
 # What it will be extracted to
 extract_dir: "retis-tester-1"
 # Author
