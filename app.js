@@ -1,4 +1,4 @@
 // Sample entry
 module.exports = (retis) => {
-  console.log("Working!")
+  retis.logger.info("Sample Plugin is working!")
 }
