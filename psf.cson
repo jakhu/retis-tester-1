@@ -1,6 +1,8 @@
 # Name plugin
 # Will save as ~/.retis/plugins/<name>
 name: "retis-example"
+# Version
+version: '1.0.0'
 # url
 url: "https://github.com/jakhu/retis-tester-1/archive/master.zip"
 # What it will be extracted to
@@ -20,4 +22,4 @@ entry: "app.js"
 # before:deploy (After build, before deploy)
 # after:build (Runs after build)
 # after:deploy (After build, after deploy)
-type: "after:build"
+type: "before:build"
