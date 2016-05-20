@@ -20,4 +20,4 @@ entry: "app.js"
 # before:deploy (After build, before deploy)
 # after:build (Runs after build)
 # after:deploy (After build, after deploy)
-type: "before:build"
+type: "after:build"
